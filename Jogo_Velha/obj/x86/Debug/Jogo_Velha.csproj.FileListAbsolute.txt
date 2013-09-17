@@ -1,0 +1,17 @@
+C:\Users\Tatiane Pedro\Documents\Visual Studio 2010\Projects\Jogo_Velha\Jogo_Velha\bin\Debug\Jogo_Velha.exe
+C:\Users\Tatiane Pedro\Documents\Visual Studio 2010\Projects\Jogo_Velha\Jogo_Velha\bin\Debug\Jogo_Velha.pdb
+C:\Users\Tatiane Pedro\Documents\Visual Studio 2010\Projects\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.Form1.resources
+C:\Users\Tatiane Pedro\Documents\Visual Studio 2010\Projects\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.Properties.Resources.resources
+C:\Users\Tatiane Pedro\Documents\Visual Studio 2010\Projects\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.csproj.GenerateResource.Cache
+C:\Users\Tatiane Pedro\Documents\Visual Studio 2010\Projects\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.exe
+C:\Users\Tatiane Pedro\Documents\Visual Studio 2010\Projects\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.pdb
+C:\Users\Tatiane Pedro\Documents\Visual Studio 2010\Projects\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.csprojResolveAssemblyReference.cache
+E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.exe
+E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.pdb
+E:\Jogo_Velha\Jogo_Velha\bin\Debug\Jogo_Velha.exe
+E:\Jogo_Velha\Jogo_Velha\bin\Debug\Jogo_Velha.pdb
+E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.Form1.resources
+E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.Properties.Resources.resources
+E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -17,9 +17,8 @@ namespace Jogo_Velha
         }
 
         bool xis = true;
-        int ganhador1=0;
-        int ganhador2=0;
-        int emapates = 0;
+        int ganhador1;
+        int ganhador2;
 
 
         private void Form1_Load(object sender, EventArgs e)
@@ -101,7 +100,6 @@ namespace Jogo_Velha
             }
             if (todosDesabilitados)
             {
-                textBox3.Text = (emapates+=1).ToString();
                 MessageBox.Show(String.Format("Deu empate"), "Ops!!!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
                 Reiniciar();

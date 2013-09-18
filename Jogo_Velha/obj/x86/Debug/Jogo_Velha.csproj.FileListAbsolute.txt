@@ -15,3 +15,11 @@ E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.Form1.resources
 E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.Properties.Resources.resources
 E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\GenerateResource.read.1.tlog
 E:\Jogo_Velha\Jogo_Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tatiane Pedro\Desktop\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.exe
+C:\Users\Tatiane Pedro\Desktop\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.pdb
+C:\Users\Tatiane Pedro\Desktop\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.csprojResolveAssemblyReference.cache
+C:\Users\Tatiane Pedro\Desktop\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.Form1.resources
+C:\Users\Tatiane Pedro\Desktop\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.Properties.Resources.resources
+C:\Users\Tatiane Pedro\Desktop\Jogo_Velha\Jogo_Velha\obj\x86\Debug\Jogo_Velha.csproj.GenerateResource.Cache
+C:\Users\Tatiane Pedro\Desktop\Jogo_Velha\Jogo_Velha\bin\Debug\Jogo_Velha.exe
+C:\Users\Tatiane Pedro\Desktop\Jogo_Velha\Jogo_Velha\bin\Debug\Jogo_Velha.pdb
